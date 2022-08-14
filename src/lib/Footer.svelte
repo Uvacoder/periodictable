@@ -3,9 +3,9 @@
 </script>
 
 <footer>
-  <a href="https://github.com/janosh">&copy; Janosh Riebesell</a>
+  <a href="https://github.com/uvacoder">&copy; uvacoder</a>
   <strong>&ensp;&bull;&ensp;</strong>
-  <a href="https://github.com/janosh/periodic-table/blob/main/license">
+  <a href="https://github.com/uvacoder/periodic-table/blob/main/license">
     MIT License 2022
   </a>
   {#if $page.url.pathname !== `/acknowledgements`}
